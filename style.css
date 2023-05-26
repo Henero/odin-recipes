@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #fad390;
+}
+
+h1 {
+    text-align: center;
+    padding: 2rem;
+    color: #0c2461;
+    background-color: #f8c291;
+    border-bottom: 1px solid #0c2461;
+}
+
+.container {
+    background: url(img/gastro.jpg.crdownload);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-bottom: 3rem;
+}
+
+.recipes {
+    text-align: center;
+    padding: 1rem 0;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #0c0e0cd0;
+}
+
+a:hover {
+    color: aliceblue;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    padding: 1rem;
+}
+
+.menu {
+    font-style: italic;
+    width: 45%;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 4px;
+    background-color: #b8e994;
+}
+
+.recipes-title {
+    font-size: 1.8rem;
+    color: #0c2461;
+}
